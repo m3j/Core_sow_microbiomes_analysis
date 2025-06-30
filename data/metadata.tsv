@@ -1,0 +1,402 @@
+sampleid	sampling_stage	Country	farm_number	GD109_temp_gestation_unit	GD019_feed_formulation_major_ingredients	GD109_feed_form	GD109_probiotic	LD21_temp_lactation_unit	LD21_feed_formulation_major_ingredients	LD21_feed_form	LD21_probiotic	antibiotic	LD21_probiotic_type	GD109_probiotic_type	parity	no_piglets_alive	no_stillborn_piglets	no_piglets_weaned_per_year_sow_not_for_gilts	sow_no	country_code	runid	feed_combined
+003-01-01	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	23	1	40	003_3012	DK	003+004	barley, wheat, soy
+003-01-02	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	4	25	4	39.9	003_2702	DK	003+004	barley, wheat, soy
+003-01-03	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	5	23	3	43.7	003_2551	DK	003+004	barley, wheat, soy
+003-01-04	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	5	20	2	33.8	003_2588	DK	003+004	barley, wheat, soy
+003-01-05	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	6	17	2	23.6	003_2449	DK	003+004	barley, wheat, soy
+003-01-06	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	24	0	51.2	003_3015	DK	003+004	barley, wheat, soy
+003-01-07	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	21	1	50.5	003_3004	DK	003+004	barley, wheat, soy
+003-01-08	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	20	1	50.6	003_3001	DK	003+004	barley, wheat, soy
+003-01-09	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	1	18	1	NA	003_3164	DK	003+004	barley, wheat, soy
+003-01-10	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	27	1	34.3	003_2957	DK	003+004	barley, wheat, soy
+003-01-11	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	5	18	4	46.7	003_2524	DK	003+004	barley, wheat, soy
+003-01-12	G109	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	1	19	1	NA	003_3105	DK	003+004	barley, wheat, soy
+003-01-13	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	23	1	40	003_3012	DK	003+004	barley, wheat, soy
+003-01-14	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	5	23	3	43.7	003_2551	DK	003+004	barley, wheat, soy
+003-01-15	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	5	20	2	33.8	003_2588	DK	003+004	barley, wheat, soy
+003-01-16	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	24	0	51.2	003_3015	DK	003+004	barley, wheat, soy
+003-01-17	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	21	1	50.5	003_3004	DK	003+004	barley, wheat, soy
+003-01-18	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	20	1	50.6	003_3001	DK	003+004	barley, wheat, soy
+003-01-19	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	1	18	1	NA	003_3164	DK	003+004	barley, wheat, soy
+003-01-20	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	2	27	1	34.3	003_2957	DK	003+004	barley, wheat, soy
+003-01-21	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	5	18	4	46.7	003_2524	DK	003+004	barley, wheat, soy
+003-01-22	L21	Denmark	DK_1	19	Barley, wheat, soy	Pellets	no	20	Barley, wheat, soy	Pellets	no	no	ZooLac	ZooLac	1	19	1	NA	003_3105	DK	003+004	barley, wheat, soy
+004-02-01	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	6	21.17	1.5	29.8	004_5551	DK	003+004	barley, wheat, soy, pea
+004-02-02	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	6	16.83	0.5	28.5	004_5685	DK	003+004	barley, wheat, soy, pea
+004-02-03	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	5	16.6	0.4	38.2	004_6682	DK	003+004	barley, wheat, soy, pea
+004-02-04	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	4	15.25	1	47.7	004_6892	DK	003+004	barley, wheat, soy, pea
+004-02-05	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	5	15.6	0.6	42.5	004_7592	DK	003+004	barley, wheat, soy, pea
+004-02-06	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	5	18.4	1.4	37.1	004_7594	DK	003+004	barley, wheat, soy, pea
+004-02-07	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	4	18.75	0.5	39	004_7701	DK	003+004	barley, wheat, soy, pea
+004-02-08	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	4	19.25	0.5	40.3	004_7708	DK	003+004	barley, wheat, soy, pea
+004-02-09	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	3	16	0.33	53.5	004_7928	DK	003+004	barley, wheat, soy, pea
+004-02-10	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	3	15	0.33	54.1	004_7957	DK	003+004	barley, wheat, soy, pea
+004-02-11	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	2	15	0	35.6	004_8266	DK	003+004	barley, wheat, soy, pea
+004-02-12	G109	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	2	19	0.5	32.7	004_8269	DK	003+004	barley, wheat, soy, pea
+004-02-13	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	6	21.17	1.5	29.8	004_5551	DK	003+004	barley, wheat, soy, pea
+004-02-14	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	6	16.83	0.5	28.5	004_5685	DK	003+004	barley, wheat, soy, pea
+004-02-15	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	5	16.6	0.4	38.2	004_6682	DK	003+004	barley, wheat, soy, pea
+004-02-16	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	4	15.25	1	47.7	004_6892	DK	003+004	barley, wheat, soy, pea
+004-02-17	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	5	15.6	0.6	42.5	004_7592	DK	003+004	barley, wheat, soy, pea
+004-02-18	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	5	18.4	1.4	37.1	004_7594	DK	003+004	barley, wheat, soy, pea
+004-02-19	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	4	18.75	0.5	39	004_7701	DK	003+004	barley, wheat, soy, pea
+004-02-20	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	4	19.25	0.5	40.3	004_7708	DK	003+004	barley, wheat, soy, pea
+004-02-21	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	3	16	0.33	53.5	004_7928	DK	003+004	barley, wheat, soy, pea
+004-02-22	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	3	15	0.33	54.1	004_7957	DK	003+004	barley, wheat, soy, pea
+004-02-23	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	2	15	0	35.6	004_8266	DK	003+004	barley, wheat, soy, pea
+004-02-24	L21	Denmark	DK_2	18	Wheat, barley, soy, peas	Liquid	yes	19	Wheat, barley, soy, peas	Liquid	yes	no	Competitor	Competitor	2	19	0.5	32.7	004_8269	DK	003+004	barley, wheat, soy, pea
+005-01-01	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	15	3	NA	005_110	ES	5	barley, wheat, soy, corn
+005-01-02	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	16	0	NA	005_113	ES	5	barley, wheat, soy, corn
+005-01-03	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	8	0	NA	005_118	ES	5	barley, wheat, soy, corn
+005-01-04	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	18	0	NA	005_120	ES	5	barley, wheat, soy, corn
+005-01-05	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	5	12	1	28.68	005_1431	ES	5	barley, wheat, soy, corn
+005-01-06	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	4	17	0	28.91	005_1586	ES	5	barley, wheat, soy, corn
+005-01-07	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	4	21	2	29.75	005_1587	ES	5	barley, wheat, soy, corn
+005-01-08	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	3	18	0	28.48	005_1811	ES	5	barley, wheat, soy, corn
+005-01-09	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	5	16	1	28.68	005_1440	ES	5	barley, wheat, soy, corn
+005-01-10	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	3	17	3	26.17	005_1803	ES	5	barley, wheat, soy, corn
+005-01-11	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	2	15	3	20.46	005_1884	ES	5	barley, wheat, soy, corn
+005-01-12	G109	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	2	14	1	29.4	005_1961	ES	5	barley, wheat, soy, corn
+005-01-13	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	15	3	NA	005_110	ES	5	barley, wheat, soy, corn
+005-01-14	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	16	0	NA	005_113	ES	5	barley, wheat, soy, corn
+005-01-15	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	8	0	NA	005_118	ES	5	barley, wheat, soy, corn
+005-01-16	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	1	18	0	NA	005_120	ES	5	barley, wheat, soy, corn
+005-01-17	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	5	12	1	28.68	005_1431	ES	5	barley, wheat, soy, corn
+005-01-18	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	4	17	0	28.91	005_1586	ES	5	barley, wheat, soy, corn
+005-01-19	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	4	21	2	29.75	005_1587	ES	5	barley, wheat, soy, corn
+005-01-20	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	3	18	0	28.48	005_1811	ES	5	barley, wheat, soy, corn
+005-01-21	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	5	16	1	28.68	005_1440	ES	5	barley, wheat, soy, corn
+005-01-22	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	3	17	3	26.17	005_1803	ES	5	barley, wheat, soy, corn
+005-01-23	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	2	15	3	20.46	005_1884	ES	5	barley, wheat, soy, corn
+005-01-24	L21	Spain	ES_1	20	Barley, corn, wheat, soybean meal	Pellets	no	21.8	Barley, corn, wheat, soybean meal	Pellets	no	no	NA	NA	2	14	1	29.4	005_1961	ES	5	barley, wheat, soy, corn
+005-02-01	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	3	NA	NA	NA	005_178	ES	5	barley, wheat, soy, corn
+005-02-02	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	9	0	NA	005_1468	ES	5	barley, wheat, soy, corn
+005-02-03	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	17	1	NA	005_181-B	ES	5	barley, wheat, soy, corn
+005-02-04	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	3	15	0	24.83	005_1290	ES	5	barley, wheat, soy, corn
+005-02-05	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	4	16	0	29.88	005_1160	ES	5	barley, wheat, soy, corn
+005-02-06	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	4	16	0	32.31	005_936	ES	5	barley, wheat, soy, corn
+005-02-07	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	5	3	0	28.92	005_959	ES	5	barley, wheat, soy, corn
+005-02-08	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	9	7	NA	005_163	ES	5	barley, wheat, soy, corn
+005-02-09	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	13	1	NA	005_155	ES	5	barley, wheat, soy, corn
+005-02-10	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	5	19	0	30.38	005_615	ES	5	barley, wheat, soy, corn
+005-02-11	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	6	14	0	29.52	005_823	ES	5	barley, wheat, soy, corn
+005-02-12	G109	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	13	0	NA	005_154	ES	5	barley, wheat, soy, corn
+005-02-14	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	9	0	NA	005_1468	ES	5	barley, wheat, soy, corn
+005-02-15	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	17	1	NA	005_181-B	ES	5	barley, wheat, soy, corn
+005-02-16	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	3	15	0	24.83	005_1290	ES	5	barley, wheat, soy, corn
+005-02-17	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	4	16	0	29.88	005_1160	ES	5	barley, wheat, soy, corn
+005-02-18	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	4	16	0	32.31	005_936	ES	5	barley, wheat, soy, corn
+005-02-19	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	5	3	0	28.92	005_959	ES	5	barley, wheat, soy, corn
+005-02-20	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	9	7	NA	005_163	ES	5	barley, wheat, soy, corn
+005-02-21	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	13	1	NA	005_155	ES	5	barley, wheat, soy, corn
+005-02-22	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	5	19	0	30.38	005_615	ES	5	barley, wheat, soy, corn
+005-02-23	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	6	14	0	29.52	005_823	ES	5	barley, wheat, soy, corn
+005-02-24	L21	Spain	ES_2	19	Barley, corn, wheat, soybean meal	Pellets	no	22	Barley, corn, wheat, soybean meal	Pellets	no	yes	NA	NA	1	13	0	NA	005_154	ES	5	barley, wheat, soy, corn
+005-03-01	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	1	15	3	NA	005_226	ES	5	barley, wheat, soy, corn
+005-03-02	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	2	12	2	19.35	005_249	ES	5	barley, wheat, soy, corn
+005-03-03	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	2	14	2	21.42	005_251	ES	5	barley, wheat, soy, corn
+005-03-04	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	2	16	1	23.94	005_261	ES	5	barley, wheat, soy, corn
+005-03-05	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	5	16	2	27.39	005_1001	ES	5	barley, wheat, soy, corn
+005-03-06	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	1	18	3	NA	005_336	ES	5	barley, wheat, soy, corn
+005-03-07	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	4	21	2	34.2	005_42	ES	5	barley, wheat, soy, corn
+005-03-08	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	4	16	0	23.9	005_58	ES	5	barley, wheat, soy, corn
+005-03-09	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	3	16	1	18.37	005_64	ES	5	barley, wheat, soy, corn
+005-03-10	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	yes	Actisaf SC47HRT	Actisaf SC47HRT	4	19	4	25.1	005_71	ES	5	barley, wheat, soy, corn
+005-03-11	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	yes	Actisaf SC47HRT	Actisaf SC47HRT	6	11	1	31.3	005_836	ES	5	barley, wheat, soy, corn
+005-03-12	G109	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	yes	Actisaf SC47HRT	Actisaf SC47HRT	6	18	3	30.2	005_842	ES	5	barley, wheat, soy, corn
+005-03-13	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	1	15	3	NA	005_226	ES	5	barley, wheat, soy, corn
+005-03-14	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	2	12	2	19.35	005_249	ES	5	barley, wheat, soy, corn
+005-03-15	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	2	14	2	21.42	005_251	ES	5	barley, wheat, soy, corn
+005-03-16	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	2	16	1	23.94	005_261	ES	5	barley, wheat, soy, corn
+005-03-17	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	5	16	2	27.39	005_1001	ES	5	barley, wheat, soy, corn
+005-03-18	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	1	18	3	NA	005_336	ES	5	barley, wheat, soy, corn
+005-03-19	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	4	21	2	34.2	005_42	ES	5	barley, wheat, soy, corn
+005-03-20	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	4	16	0	23.9	005_58	ES	5	barley, wheat, soy, corn
+005-03-21	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	Actisaf SC47HRT	Actisaf SC47HRT	3	16	1	18.37	005_64	ES	5	barley, wheat, soy, corn
+005-03-22	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	yes	Actisaf SC47HRT	Actisaf SC47HRT	4	19	4	25.1	005_71	ES	5	barley, wheat, soy, corn
+005-03-23	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	yes	Actisaf SC47HRT	Actisaf SC47HRT	6	11	1	31.3	005_836	ES	5	barley, wheat, soy, corn
+005-03-24	L21	Spain	ES_3	20.7	Barley, corn, wheat, soybean meal	Pellets	yes	24	Barley, corn, wheat, soybean meal	Pellets	yes	yes	Actisaf SC47HRT	Actisaf SC47HRT	6	18	3	30.2	005_842	ES	5	barley, wheat, soy, corn
+005-04-01	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	6	14	0	23.01	005_2968	ES	5	barley, wheat, soy, corn
+005-04-02	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	9	16	3	21.55	005_2736	ES	5	barley, wheat, soy, corn
+005-04-03	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	8	18	3	32.9	005_2826	ES	5	barley, wheat, soy, corn
+005-04-04	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	8	18	3	29.63	005_2831	ES	5	barley, wheat, soy, corn
+005-04-05	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	8	11	1	26.55	005_2854	ES	5	barley, wheat, soy, corn
+005-04-06	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	7	12	2	30.74	005_2903	ES	5	barley, wheat, soy, corn
+005-04-07	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	5	11	2	20.83	005_3003	ES	5	barley, wheat, soy, corn
+005-04-08	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	5	10	1	28.88	005_3051	ES	5	barley, wheat, soy, corn
+005-04-09	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	4	16	1	32.63	005_3094	ES	5	barley, wheat, soy, corn
+005-04-10	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	4	14	1	32.46	005_3115	ES	5	barley, wheat, soy, corn
+005-04-11	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	10	18	1	36.57	005_2648	ES	5	barley, wheat, soy, corn
+005-04-12	G109	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	6	1	0	18.71	005_2955	ES	5	barley, wheat, soy, corn
+005-04-13	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	6	14	0	23.01	005_2968	ES	5	barley, wheat, soy, corn
+005-04-14	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	9	16	3	21.55	005_2736	ES	5	barley, wheat, soy, corn
+005-04-15	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	8	18	3	32.9	005_2826	ES	5	barley, wheat, soy, corn
+005-04-16	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	8	18	3	29.63	005_2831	ES	5	barley, wheat, soy, corn
+005-04-17	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	8	11	1	26.55	005_2854	ES	5	barley, wheat, soy, corn
+005-04-18	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	7	12	2	30.74	005_2903	ES	5	barley, wheat, soy, corn
+005-04-20	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	5	10	1	28.88	005_3051	ES	5	barley, wheat, soy, corn
+005-04-21	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	4	16	1	32.63	005_3094	ES	5	barley, wheat, soy, corn
+005-04-22	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	4	14	1	32.46	005_3115	ES	5	barley, wheat, soy, corn
+005-04-23	L21	Spain	ES_4	21.2	Barley, corn, wheat, soybean meal	Pellets	no	24	Barley, corn, wheat, soybean meal	Pellets	yes	no	BioPlus YC	NA	10	18	1	36.57	005_2648	ES	5	barley, wheat, soy, corn
+006-01-01	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	yes	NA	NA	1	19	1	NA	006_558	NL	6	barley, wheat, palm kernel
+006-01-02	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	1	15	0	NA	006_549	NL	6	barley, wheat, palm kernel
+006-01-03	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	1	10	1	NA	006_543	NL	6	barley, wheat, palm kernel
+006-01-04	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	1	16	0	NA	006_551	NL	6	barley, wheat, palm kernel
+006-01-05	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	2	16	0	37	006_402	NL	6	barley, wheat, palm kernel
+006-01-06	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	2	13	0	32	006_413	NL	6	barley, wheat, palm kernel
+006-01-07	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	2	17	0	24.6	006_398	NL	6	barley, wheat, palm kernel
+006-01-08	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	3	15	3	32.8	006_203	NL	6	barley, wheat, palm kernel
+006-01-09	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	3	21	0	35.8	006_210	NL	6	barley, wheat, palm kernel
+006-01-10	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	3	11	0	26	006_228	NL	6	barley, wheat, palm kernel
+006-01-11	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	4	17	0	34.7	006_941	NL	6	barley, wheat, palm kernel
+006-01-12	G109	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	4	13	1	33	006_944	NL	6	barley, wheat, palm kernel
+006-01-13	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	yes	NA	NA	1	19	1	NA	006_558	NL	6	barley, wheat
+006-01-14	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	1	15	0	NA	006_549	NL	6	barley, wheat
+006-01-15	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	1	10	1	NA	006_543	NL	6	barley, wheat
+006-01-16	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	1	16	0	NA	006_551	NL	6	barley, wheat
+006-01-17	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	2	16	0	37	006_402	NL	6	barley, wheat
+006-01-18	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	2	13	0	32	006_413	NL	6	barley, wheat
+006-01-19	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	2	17	0	24.6	006_398	NL	6	barley, wheat
+006-01-20	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	3	15	3	32.8	006_203	NL	6	barley, wheat
+006-01-21	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	3	21	0	35.8	006_210	NL	6	barley, wheat
+006-01-22	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	3	11	0	26	006_228	NL	6	barley, wheat
+006-01-23	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	4	17	0	34.7	006_941	NL	6	barley, wheat
+006-01-24	L21	Netherlands	NL_1	21.3	Barley, wheat middlings, palm kernel expellers	Pellets	no	26.3	Wheat, wheat middlings, barley, maize	Pellets	no	no	NA	NA	4	13	1	33	006_944	NL	6	barley, wheat
+006-02-01	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	9	2	NA	006_1372	NL	6	barley, wheat, corn, palm kernel
+006-02-02	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	25	1	NA	006_1389	NL	6	barley, wheat, corn, palm kernel
+006-02-03	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	15	2	NA	006_748	NL	6	barley, wheat, corn, palm kernel
+006-02-04	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	18	0	NA	006_749	NL	6	barley, wheat, corn, palm kernel
+006-02-05	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	2	18	0	NA	006_688	NL	6	barley, wheat, corn, palm kernel
+006-02-06	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	2	23	1	62.1	006_690	NL	6	barley, wheat, corn, palm kernel
+006-02-07	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	3	24	1	36.8	006_575	NL	6	barley, wheat, corn, palm kernel
+006-02-08	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	3	18	2	32.6	006_579	NL	6	barley, wheat, corn, palm kernel
+006-02-09	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	yes	NA	NA	4	19	2	31.6	006_438	NL	6	barley, wheat, corn, palm kernel
+006-02-10	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	4	18	1	36.7	006_482	NL	6	barley, wheat, corn, palm kernel
+006-02-11	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	5	17	0	35.5	006_378	NL	6	barley, wheat, corn, palm kernel
+006-02-12	G109	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	5	18	1	34.8	006_372	NL	6	barley, wheat, corn, palm kernel
+006-02-13	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	9	2	NA	006_1372	NL	6	barley, wheat, soy, corn
+006-02-14	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	25	1	NA	006_1389	NL	6	barley, wheat, soy, corn
+006-02-15	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	15	2	NA	006_748	NL	6	barley, wheat, soy, corn
+006-02-16	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	1	18	0	NA	006_749	NL	6	barley, wheat, soy, corn
+006-02-17	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	2	18	0	NA	006_688	NL	6	barley, wheat, soy, corn
+006-02-18	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	2	23	1	62.1	006_690	NL	6	barley, wheat, soy, corn
+006-02-19	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	3	24	1	36.8	006_575	NL	6	barley, wheat, soy, corn
+006-02-20	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	3	18	2	32.6	006_579	NL	6	barley, wheat, soy, corn
+006-02-21	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	yes	NA	NA	4	19	2	31.6	006_438	NL	6	barley, wheat, soy, corn
+006-02-22	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	4	18	1	36.7	006_482	NL	6	barley, wheat, soy, corn
+006-02-23	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	5	17	0	35.5	006_378	NL	6	barley, wheat, soy, corn
+006-02-24	L21	Netherlands	NL_2	25.3	Wheat, palm kernel flakes, barley, corn	Liquid	no	25.8	Wheat, corn, soybean meal, barley	Liquid	no	no	NA	NA	5	18	1	34.8	006_372	NL	6	barley, wheat, soy, corn
+006-03-01	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	19	1	NA	006_5536	NL	7	barley, wheat, palm kernel, sunflower
+006-03-02	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	12	3	NA	006_5550	NL	7	barley, wheat, palm kernel, sunflower
+006-03-03	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	13	0	NA	006_5541	NL	7	barley, wheat, palm kernel, sunflower
+006-03-04	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	16	1	NA	006_5533	NL	7	barley, wheat, palm kernel, sunflower
+006-03-05	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	3	21	0	29.1	006_5374	NL	7	barley, wheat, palm kernel, sunflower
+006-03-06	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	3	13	2	36	006_5396	NL	7	barley, wheat, palm kernel, sunflower
+006-03-07	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	4	15	6	35.8	006_5327	NL	7	barley, wheat, palm kernel, sunflower
+006-03-08	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	4	12	2	31.9	006_5298	NL	7	barley, wheat, palm kernel, sunflower
+006-03-09	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	2	16	0	33.9	006_5464	NL	7	barley, wheat, palm kernel, sunflower
+006-03-10	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	3	17	1	33.6	006_5383	NL	7	barley, wheat, palm kernel, sunflower
+006-03-11	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	6	13	0	33.8	006_5175	NL	7	barley, wheat, palm kernel, sunflower
+006-03-12	G109	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	6	19	5	32	006_5156	NL	7	barley, wheat, palm kernel, sunflower
+006-03-13	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	19	1	NA	006_5536	NL	7	barley, wheat, soy, corn
+006-03-14	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	12	3	NA	006_5550	NL	7	barley, wheat, soy, corn
+006-03-15	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	13	0	NA	006_5541	NL	7	barley, wheat, soy, corn
+006-03-16	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	1	16	1	NA	006_5533	NL	7	barley, wheat, soy, corn
+006-03-17	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	3	21	0	29.1	006_5374	NL	7	barley, wheat, soy, corn
+006-03-18	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	3	13	2	36	006_5396	NL	7	barley, wheat, soy, corn
+006-03-19	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	4	15	6	35.8	006_5327	NL	7	barley, wheat, soy, corn
+006-03-20	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	4	12	2	31.9	006_5298	NL	7	barley, wheat, soy, corn
+006-03-21	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	2	16	0	33.9	006_5464	NL	7	barley, wheat, soy, corn
+006-03-22	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	3	17	1	33.6	006_5383	NL	7	barley, wheat, soy, corn
+006-03-23	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	6	13	0	33.8	006_5175	NL	7	barley, wheat, soy, corn
+006-03-24	L21	Netherlands	NL_3	30.1	Barley, wheat, palm kernel flakes, sunflower seed meal	Pellets	no	26.2	Wheat, corn, barley, soybean meal	Pellets	no	no	NA	NA	6	19	5	32	006_5156	NL	7	barley, wheat, soy, corn
+006-04-01	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	16	0	NA	006_187	NL	7	NA
+006-04-02	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	16	0	NA	006_188	NL	7	NA
+006-04-03	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	15	0	NA	006_189	NL	7	NA
+006-04-04	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	12	0	NA	006_190	NL	7	NA
+006-04-05	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	2	18	4	30.1	006_118	NL	7	NA
+006-04-06	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	2	14	0	31.8	006_139	NL	7	NA
+006-04-07	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	3	16	0	31	006_58	NL	7	NA
+006-04-08	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	3	14	0	35.2	006_80	NL	7	NA
+006-04-09	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	3	11	1	33.5	006_78	NL	7	NA
+006-04-10	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	4	22	2	29.1	006_684	NL	7	NA
+006-04-11	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	5	10	0	34	006_650	NL	7	NA
+006-04-12	G109	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	5	17	0	33.4	006_648	NL	7	NA
+006-04-13	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	16	0	NA	006_187	NL	7	barley, wheat, soy
+006-04-14	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	16	0	NA	006_188	NL	7	barley, wheat, soy
+006-04-15	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	15	0	NA	006_189	NL	7	barley, wheat, soy
+006-04-16	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	1	12	0	NA	006_190	NL	7	barley, wheat, soy
+006-04-17	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	2	18	4	30.1	006_118	NL	7	barley, wheat, soy
+006-04-18	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	2	14	0	31.8	006_139	NL	7	barley, wheat, soy
+006-04-19	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	3	16	0	31	006_58	NL	7	barley, wheat, soy
+006-04-20	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	3	14	0	35.2	006_80	NL	7	barley, wheat, soy
+006-04-21	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	3	11	1	33.5	006_78	NL	7	barley, wheat, soy
+006-04-22	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	4	22	2	29.1	006_684	NL	7	barley, wheat, soy
+006-04-23	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	5	10	0	34	006_650	NL	7	barley, wheat, soy
+006-04-24	L21	Netherlands	NL_4	28.4	NA	Pellets	NA	27.5	Barley, wheat bran, wheat, soybean meal	Pellets	NA	no	NA	NA	5	17	0	33.4	006_648	NL	7	barley, wheat, soy
+007-01-02	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	3	14	3	37.2	007_148	FR	7	barley, wheat, corn, triticale, oat
+007-01-03	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	3	16	2	26.6	007_152	FR	7	barley, wheat, corn, triticale, oat
+007-01-01	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	4	12	4	30.8	007_17	FR	7	barley, wheat, corn, triticale, oat
+007-01-08	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	7	13	7	26.7	007_1945	FR	7	barley, wheat, corn, triticale, oat
+007-01-07	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	7	14	0	29.7	007_1929	FR	7	barley, wheat, corn, triticale, oat
+007-01-09	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	5	17	3	29	007_2184	FR	7	barley, wheat, corn, triticale, oat
+007-01-10	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	4	18	2	33	007_2301	FR	7	barley, wheat, corn, triticale, oat
+007-01-04	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	2	14	1	27.1	007_273	FR	7	barley, wheat, corn, triticale, oat
+007-01-05	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	2	16	0	35.2	007_288	FR	7	barley, wheat, corn, triticale, oat
+007-01-06	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	2	14	2	35.7	007_292	FR	7	barley, wheat, corn, triticale, oat
+007-01-11	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	11	2	NA	007_9373	FR	7	barley, wheat, corn, triticale, oat
+007-01-12	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	12	1	NA	007_9388	FR	7	barley, wheat, corn, triticale, oat
+007-01-13	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	18	0	NA	007_9390	FR	7	barley, wheat, corn, triticale, oat
+007-01-14	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	15	0	NA	007_9394	FR	7	barley, wheat, corn, triticale, oat
+007-01-15	G109	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	16	0	NA	007_9418	FR	7	barley, wheat, corn, triticale, oat
+007-01-17	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	3	14	3	37.2	007_148	FR	7	barley, wheat, corn, triticale
+007-01-18	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	3	16	2	26.6	007_152	FR	7	barley, wheat, corn, triticale
+007-01-16	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	4	12	4	30.8	007_17	FR	7	barley, wheat, corn, triticale
+007-01-23	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	7	13	7	26.7	007_1945	FR	7	barley, wheat, corn, triticale
+007-01-22	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	7	14	0	29.7	007_1929	FR	7	barley, wheat, corn, triticale
+007-01-24	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	5	17	3	29	007_2184	FR	7	barley, wheat, corn, triticale
+007-01-25	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	4	18	2	33	007_2301	FR	7	barley, wheat, corn, triticale
+007-01-19	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	2	14	1	27.1	007_273	FR	7	barley, wheat, corn, triticale
+007-01-20	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	2	16	0	35.2	007_288	FR	7	barley, wheat, corn, triticale
+007-01-21	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	2	14	2	35.7	007_292	FR	7	barley, wheat, corn, triticale
+007-01-26	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	11	2	NA	007_428	FR	7	barley, wheat, corn, triticale
+007-01-27	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	12	1	NA	007_430	FR	7	barley, wheat, corn, triticale
+007-01-28	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	18	0	NA	007_432	FR	7	barley, wheat, corn, triticale
+007-01-29	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	15	0	NA	007_427	FR	7	barley, wheat, corn, triticale
+007-01-30	L21	France	FR_1	22	Barley, corn, oat, wheat, triticale	Mash	yes	26	Barley, corn, triticale, wheat	Mash	yes	no	Levucell	Levucell	1	16	0	NA	007_431	FR	7	barley, wheat, corn, triticale
+007-02-01	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	7	11	0	34.23	007_11	FR	7	barley, wheat, corn, sunflower
+007-02-02	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	NA	16	1	31.43	007_297	FR	7	barley, wheat, corn, sunflower
+007-02-03	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	NA	NA	NA	NA	007_344	FR	7	barley, wheat, corn, sunflower
+007-02-04	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	5	19	0	31.93	007_481	FR	7	barley, wheat, corn, sunflower
+007-02-05	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	5	14	1	30.77	007_563	FR	7	barley, wheat, corn, sunflower
+007-02-06	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	4	20	3	32.63	007_1119	FR	7	barley, wheat, corn, sunflower
+007-02-07	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	3	12	8	33.77	007_1403	FR	7	barley, wheat, corn, sunflower
+007-02-08	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	3	19	3	36.27	007_1411	FR	7	barley, wheat, corn, sunflower
+007-02-09	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	2	13	10	NA	007_2020	FR	7	barley, wheat, corn, sunflower
+007-02-10	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	17	0	NA	007_2242	FR	7	barley, wheat, corn, sunflower
+007-02-11	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	13	3	NA	007_2290	FR	7	barley, wheat, corn, sunflower
+007-02-12	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	11	2	NA	007_2297	FR	7	barley, wheat, corn, sunflower
+007-02-13	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	17	0	NA	007_2302	FR	7	barley, wheat, corn, sunflower
+007-02-14	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	17	2	NA	007_2299	FR	7	barley, wheat, corn, sunflower
+007-02-15	G109	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	8	16	2	33.68	007_9436	FR	7	barley, wheat, corn, sunflower
+007-02-16	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	7	11	0	34.23	007_11	FR	7	barley, wheat, soy, corn
+007-02-17	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	NA	16	1	31.43	007_297	FR	7	barley, wheat, soy, corn
+007-02-19	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	5	19	0	31.93	007_481	FR	7	barley, wheat, soy, corn
+007-02-20	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	5	14	1	30.77	007_563	FR	7	barley, wheat, soy, corn
+007-02-21	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	4	20	3	32.63	007_1119	FR	7	barley, wheat, soy, corn
+007-02-22	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	3	12	8	33.77	007_1403	FR	7	barley, wheat, soy, corn
+007-02-23	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	3	19	3	36.27	007_1411	FR	7	barley, wheat, soy, corn
+007-02-24	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	2	13	10	NA	007_2020	FR	7	barley, wheat, soy, corn
+007-02-25	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	17	0	NA	007_2242	FR	7	barley, wheat, soy, corn
+007-02-26	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	13	3	NA	007_2290	FR	7	barley, wheat, soy, corn
+007-02-27	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	11	2	NA	007_2297	FR	7	barley, wheat, soy, corn
+007-02-28	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	8	16	2	33.68	007_9436	FR	7	barley, wheat, soy, corn
+007-02-29	L21	France	FR_2	19	Barley, sunflower, wheat, corn	Liquid	no	25	Wheat, barley, corn, soybean	Mash	no	no	NA	NA	1	17	2	NA	007_2299	FR	7	barley, wheat, soy, corn
+008-01-01	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	18	1	NA	008_2	UK	8	barley, wheat, rye
+008-01-02	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	2	15	5	NA	008_71	UK	8	barley, wheat, rye
+008-01-03	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	2	9	0	NA	008_87	UK	8	barley, wheat, rye
+008-01-04	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	2	20	1	NA	008_88	UK	8	barley, wheat, rye
+008-01-05	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	17	0	NA	008_157	UK	8	barley, wheat, rye
+008-01-06	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	13	4	NA	008_163	UK	8	barley, wheat, rye
+008-01-07	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	17	2	NA	008_180	UK	8	barley, wheat, rye
+008-01-08	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	17	7	NA	008_181	UK	8	barley, wheat, rye
+008-01-09	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	5	14	3	NA	008_860	UK	8	barley, wheat, rye
+008-01-10	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	5	6	5	NA	008_865	UK	8	barley, wheat, rye
+008-01-11	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	4	18	2	NA	008_928	UK	8	barley, wheat, rye
+008-01-12	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	16	6	NA	008_962	UK	8	barley, wheat, rye
+008-01-13	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	23	1	NA	008_967	UK	8	barley, wheat, rye
+008-01-14	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	19	1	NA	008_985	UK	8	barley, wheat, rye
+008-01-15	G109	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	17	2	NA	008_6	UK	8	barley, wheat, rye
+008-01-16	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	18	1	NA	008_2	UK	8	barley, wheat, rye
+008-01-17	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	2	15	5	NA	008_71	UK	8	barley, wheat, rye
+008-01-18	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	2	9	0	NA	008_87	UK	8	barley, wheat, rye
+008-01-19	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	2	20	1	NA	008_88	UK	8	barley, wheat, rye
+008-01-20	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	17	0	NA	008_157	UK	8	barley, wheat, rye
+008-01-21	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	13	4	NA	008_163	UK	8	barley, wheat, rye
+008-01-22	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	17	2	NA	008_180	UK	8	barley, wheat, rye
+008-01-23	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	1	17	7	NA	008_181	UK	8	barley, wheat, rye
+008-01-24	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	5	14	3	NA	008_860	UK	8	barley, wheat, rye
+008-01-25	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	5	6	5	NA	008_865	UK	8	barley, wheat, rye
+008-01-26	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	4	18	2	NA	008_928	UK	8	barley, wheat, rye
+008-01-27	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	16	6	NA	008_962	UK	8	barley, wheat, rye
+008-01-28	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	23	1	NA	008_967	UK	8	barley, wheat, rye
+008-01-29	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	19	1	NA	008_985	UK	8	barley, wheat, rye
+008-01-30	L21	UK	UK_1	16	Wheat, rye, barley	Pellets	no	24	Wheat, rye, barley	Mash	no	no	NA	NA	3	17	2	NA	008_6	UK	8	barley, wheat, rye
+008-02-01	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	2	14	0	NA	008_O280	UK	8	barley
+008-02-02	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	4	14	0	NA	008_B357	UK	8	barley
+008-02-03	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	2	18	4	NA	008_O192	UK	8	barley
+008-02-04	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	3	15	4	NA	008_O033	UK	8	barley
+008-02-05	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	2	6	0	NA	008_O257	UK	8	barley
+008-02-06	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	16	0	NA	008_W093	UK	8	barley
+008-02-07	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	11	0	NA	008_W091	UK	8	barley
+008-02-08	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	14	3	NA	008_W073	UK	8	barley
+008-02-09	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	15	0	NA	008_W092	UK	8	barley
+008-02-10	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	17	0	NA	008_W077	UK	8	barley
+008-02-11	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	4	19	0	NA	008_B334	UK	8	barley
+008-02-12	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	4	15	0	NA	008_B346	UK	8	barley
+008-02-13	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	3	9	0	NA	008_O008	UK	8	barley
+008-02-14	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	15	0	NA	008_W020	UK	8	barley
+008-02-15	G109	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	13	0	NA	008_W098	UK	8	barley
+008-02-16	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	2	14	0	NA	008_O280	UK	8	barley
+008-02-17	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	4	14	0	NA	008_B357	UK	8	barley
+008-02-18	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	2	18	4	NA	008_O192	UK	8	barley
+008-02-19	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	3	15	4	NA	008_O033	UK	8	barley
+008-02-20	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	2	6	0	NA	008_O257	UK	8	barley
+008-02-21	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	16	0	NA	008_W093	UK	8	barley
+008-02-22	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	11	0	NA	008_W091	UK	8	barley
+008-02-23	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	14	3	NA	008_W073	UK	8	barley
+008-02-24	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	15	0	NA	008_W092	UK	8	barley
+008-02-25	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	17	0	NA	008_W077	UK	8	barley
+008-02-26	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	4	19	0	NA	008_B334	UK	8	barley
+008-02-27	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	4	15	0	NA	008_B346	UK	8	barley
+008-02-28	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	3	9	0	NA	008_O008	UK	8	barley
+008-02-29	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	15	0	NA	008_W020	UK	8	barley
+008-02-30	L21	UK	UK_2	24	Barley	Pellets	no	24	Barley	Pellets	no	no	NA	NA	1	13	0	NA	008_W098	UK	8	barley
+008-03-01	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	12	0	NA	008_2300	UK	8	barley, wheat
+008-03-02	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	16	3	NA	008_2315	UK	8	barley, wheat
+008-03-03	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	4	13	3	37.9	008_1879	UK	8	barley, wheat
+008-03-04	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	24	3	41.34	008_2020	UK	8	barley, wheat
+008-03-05	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	2	11	0	33.93	008_2175	UK	8	barley, wheat
+008-03-06	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	22	0	29.85	008_2034	UK	8	barley, wheat
+008-03-07	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	16	1	NA	008_2312	UK	8	barley, wheat
+008-03-08	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	20	1	NA	008_2311	UK	8	barley, wheat
+008-03-09	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	5	22	0	30.39	008_1732	UK	8	barley, wheat
+008-03-10	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	4	18	4	33.57	008_1877	UK	8	barley, wheat
+008-03-11	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	14	0	35.31	008_2040	UK	8	barley, wheat
+008-03-12	G109	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	23	0	32.33	008_2047	UK	8	barley, wheat
+008-03-13	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	12	0	NA	008_2300	UK	8	barley, wheat, soy
+008-03-14	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	16	3	NA	008_2315	UK	8	barley, wheat, soy
+008-03-15	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	4	13	3	37.9	008_1879	UK	8	barley, wheat, soy
+008-03-16	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	24	3	41.34	008_2020	UK	8	barley, wheat, soy
+008-03-17	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	2	11	0	33.93	008_2175	UK	8	barley, wheat, soy
+008-03-18	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	22	0	29.85	008_2034	UK	8	barley, wheat, soy
+008-03-19	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	16	1	NA	008_2312	UK	8	barley, wheat, soy
+008-03-20	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	1	20	1	NA	008_2311	UK	8	barley, wheat, soy
+008-03-21	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	5	22	0	30.39	008_1732	UK	8	barley, wheat, soy
+008-03-22	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	4	18	4	33.57	008_1877	UK	8	barley, wheat, soy
+008-03-23	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	14	0	35.31	008_2040	UK	8	barley, wheat, soy
+008-03-24	L21	UK	UK_3	NA	Wheat, barley	Liquid	yes	20	Soya, wheat, barley	Liquid	yes	NA	SolPreme	SolPreme	3	23	0	32.33	008_2047	UK	8	barley, wheat, soy
+010-01-01	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	15	2	NA	010_2125	DE	10	barley, wheat, soy, beet
+010-01-02	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	17	1	NA	010_2196	DE	10	barley, wheat, soy, beet
+010-01-03	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	18	0	NA	010_2198	DE	10	barley, wheat, soy, beet
+010-01-04	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	20	0	NA	010_2199	DE	10	barley, wheat, soy, beet
+010-01-05	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	15	1	NA	010_2208	DE	10	barley, wheat, soy, beet
+010-01-06	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	2	19	1	NA	010_1607	DE	10	barley, wheat, soy, beet
+010-01-07	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	2	18	0	NA	010_1642	DE	10	barley, wheat, soy, beet
+010-01-08	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	3	20	1	NA	010_1024	DE	10	barley, wheat, soy, beet
+010-01-09	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	3	23	1	NA	010_1052	DE	10	barley, wheat, soy, beet
+010-01-10	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	4	17	2	NA	010_508	DE	10	barley, wheat, soy, beet
+010-01-11	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	4	20	2	NA	010_518	DE	10	barley, wheat, soy, beet
+010-01-12	G109	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	5	24	1	NA	010_9909	DE	10	barley, wheat, soy, beet
+010-01-13	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	15	2	NA	010_2125	DE	10	barley, wheat, soy
+010-01-14	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	17	1	NA	010_2196	DE	10	barley, wheat, soy
+010-01-15	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	18	0	NA	010_2198	DE	10	barley, wheat, soy
+010-01-16	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	20	0	NA	010_2199	DE	10	barley, wheat, soy
+010-01-17	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	1	15	1	NA	010_2208	DE	10	barley, wheat, soy
+010-01-18	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	2	19	1	NA	010_1607	DE	10	barley, wheat, soy
+010-01-19	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	2	18	0	NA	010_1642	DE	10	barley, wheat, soy
+010-01-20	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	3	20	1	NA	010_1024	DE	10	barley, wheat, soy
+010-01-21	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	3	23	1	NA	010_1052	DE	10	barley, wheat, soy
+010-01-22	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	4	17	2	NA	010_508	DE	10	barley, wheat, soy
+010-01-23	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	4	20	2	NA	010_518	DE	10	barley, wheat, soy
+010-01-24	L21	Germany	DE_1	20	Barley, wheat bran, beet molasses pulp, soy pellets	Pellets	no	NA	Barley, wheat, soy pellets, wheat bran	Pellets	Yes	NA	BioPlus YC	BioPlus YC	5	24	1	NA	010_9909	DE	10	barley, wheat, soy

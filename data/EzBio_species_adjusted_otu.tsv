@@ -1,0 +1,57 @@
+silva_acc	OTU	OTU_derep	Identity	SequenceType Rank 0	SequenceType Rank 1	SequenceType Rank 2	SequenceType Rank 3	SequenceType Rank 4	...9	Identity(%)	IdentityType	Length(bp)	Taxonomy	Created
+JX104051.1.1392	OTU3819	OTU3614	Nanchangia sp.	NA	NA	NA	NA	NA	NA	96.65	16S rRNA	1392	Bacteria; Actinomycetota; Actinomycetia; Actinomycetales; Actinomycetaceae;Nanchangia;uncultured_bacterium	2025-07-07T10:51:28.000
+JN713323.1.1524	OTU3637	OTU2221	JN713323_s	NA	NA	NA	NA	NA	NA	100	16S rRNA	1354	Bacteria; Bacillota; Clostridia; Mahellales; Aristaeellaceae; AY644475_g;JN713323_s	2025-07-07T10:17:18.000
+EU009803.1.2917	OTU1421	OTU3142	Claveliimonas sp.	NA	NA	NA	NA	NA	NA	98.66	16S rRNA	1967	Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Claveliimonas	2025-07-03T11:58:16.000
+EU289039.1.1423	OTU1436	OTU3147	EU289039_s	NA	NA	NA	NA	NA	NA	100	16S rRNA	1423	Bacteria;Actinomycetota;Actinomycetia;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium_EU289039_s	2025-07-03T11:57:03.000
+HQ790385.1.1422	OTU3526	OTU3526	Turicibacter sp.	NA	NA	NA	NA	NA	NA	95.86	16S rRNA	1422	Bacteria;Bacillota;Erysipelotrichia;Erysipelotrichales;Turicibacteraceae;Turicibacter	2025-07-03T11:56:59.000
+EU289072.1.1450	OTU1439	OTU3150	Mobiluncus sp.	NA	NA	NA	NA	NA	NA	97.36	16S rRNA	1450	Bacteria;Actinomycetota;Actinomycetia;Actinomycetales;Actinomycetaceae;Mobiluncus	2025-07-03T11:56:56.000
+AM183063.1.1451	OTU567	OTU3033	Streptococcaceae sp.	NA	NA	NA	NA	NA	NA	92	16S rRNA	1451	Bacteria;Bacillota;Bacilli;Lactobacillales;Streptococcaceae	2025-07-03T11:56:53.000
+AM183002.1.1449	OTU540	OTU3015	Anaerococcus sp.	NA	NA	NA	NA	NA	NA	96.62	16S rRNA	1449	Bacteria;Bacillota;Tissierellia;Tissierellales;Peptoniphilaceae;Anaerococcus	2025-07-03T11:56:50.000
+AM183020.1.1439	OTU546	OTU3020	Turicibacteraceae sp.	NA	NA	NA	NA	NA	NA	92.54	16S rRNA	1439	Bacteria;Bacillota;Erysipelotrichia;Erysipelotrichales;Turicibacteraceae	2025-07-03T11:56:47.000
+AF371900.1.1394	OTU444	OTU2988	PAC002859_s	NA	NA	NA	NA	NA	NA	99.86	16S rRNA	1394	Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;PAC002859_g;PAC002859_g_PAC002859_s	2025-07-03T11:56:39.000
+FJ672429.1.1456	NA	OTU2345	Ruoffia tabacinasalis group	NA	NA	NA	NA	NA	NA	99.71	16S rRNA	1369	Bacteria;Bacillota;Bacilli;Lactobacillales;Aerococcaceae;Ruoffia;Ruoffia_tabacinasalis	2025-07-02T13:17:18.000
+FJ670978.1.1406	NA	OTU2785	Corynebacterium pollutisoli	NA	NA	NA	NA	NA	NA	99.63	16S rRNA	1339	Bacteria;Actinomycetota;Actinomycetia;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium_pollutisoli	2025-07-02T13:17:15.000
+GQ134099.1.1371	OTU2914	OTU2148	Clostridiaceae sp.	NA	NA	NA	NA	NA	NA	93.05	16S rRNA	1336	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae	2025-07-02T13:17:12.000
+FJ671934.1.1453	NA	OTU978	Jeotgalicoccus coquinae	NA	NA	NA	NA	NA	NA	98.74	16S rRNA	1370	Bacteria;Bacillota;Bacilli;Staphylococcales;Salinicoccaceae;Jeotgalicoccus;Jeotgalicoccus_coquinae	2025-07-02T13:17:09.000
+GQ136005.1.1378	OTU2965	OTU2186	Clostridium sp.	NA	NA	NA	NA	NA	NA	94.8	16S rRNA	1338	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium	2025-07-02T13:17:06.000
+GQ448253.1.1400	NA	OTU230	Lactobacillaceae sp.	NA	NA	NA	NA	NA	NA	93.01	16S rRNA	1364	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae	2025-07-02T13:17:03.000
+EU844922.1.1511	OTU2503	OTU1863	Psychrobacter sanguinis	NA	NA	NA	NA	NA	NA	99.04	16S rRNA	1357	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Psychrobacter;Psychrobacter_sanguinis	2025-07-02T13:16:59.000
+DQ805509.1.1398	OTU1226	OTU827	Christensenellaceae sp.	NA	NA	NA	NA	NA	NA	93.98	16S rRNA	1349	Bacteria;Bacillota;Clostridia;Christensenellales;Christensenellaceae	2025-07-02T13:16:55.000
+GQ136325.1.1377	OTU2970	OTU960	Clostridiaceae sp.	NA	NA	NA	NA	NA	NA	92.37	16S rRNA	1337	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae	2025-07-02T13:16:52.000
+GQ139078.1.1371	OTU3002	OTU2217	Clostridiaceae sp.	NA	NA	NA	NA	NA	NA	93.48	16S rRNA	1338	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae	2025-07-02T13:16:49.000
+EU474015.1.1379	OTU1803	OTU1297	Clostridium sp.	NA	NA	NA	NA	NA	NA	98.65	16S rRNA	1333	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium	2025-07-02T13:16:46.000
+DQ796758.1.1361	OTU1134	OTU753	Clostridiaceae sp.	NA	NA	NA	NA	NA	NA	93.08	16S rRNA	1323	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae	2025-07-02T13:16:43.000
+HQ716151.1.1454	OTU3349	OTU2426	PAC002784_s	NA	NA	NA	NA	NA	NA	99.04	16S rRNA	1357	Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides_PAC002784_s	2025-07-02T13:16:40.000
+DQ318876.1.1620	OTU1047	OTU236	Peptostreptococcus sp.	NA	NA	NA	NA	NA	NA	97.65	16S rRNA	1464	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Peptostreptococcaceae;Peptostreptococcus	2025-07-02T13:16:36.000
+AM930377.1.1461	OTU649	OTU459	Terrisporobacter sp.	NA	NA	NA	NA	NA	NA	96.91	16S rRNA	1324	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Peptostreptococcaceae;Terrisporobacter	2025-07-02T13:16:32.000
+EF419415.1.1433	OTU1384	OTU948	JRNA_s	NA	NA	NA	NA	NA	NA	99.03	16S rRNA	1345	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Anaerovoracaceae;JRNA_g;JRNA_g_JRNA_s	2025-07-02T13:16:29.000
+AB506296.1.1510	OTU79	OTU65	PAC002752_s	NA	NA	NA	NA	NA	NA	99.7	16S rRNA	1349	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Anaerovoracaceae;Lentihominibacter;Lentihominibacter_PAC002752_s	2025-07-02T13:16:26.000
+AB506199.1.1508	OTU66	OTU53	Clostridium lentum group	NA	NA	NA	NA	NA	NA	99.32	16S rRNA	1335	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium;Clostridium_lentum	2025-07-02T13:16:23.000
+AB506368.1.1519	OTU109	OTU95	PAC002716_s	NA	NA	NA	NA	NA	NA	99.55	16S rRNA	1348	Bacteria;Planctomycetota;Planctomycetia;Pirellulales;Pirellulaceae;PAC002716_g;PAC002716_g_PAC002716_s	2025-07-02T13:16:19.000
+AB506307.1.1496	OTU83	OTU69	Terrisporobacter sp.	NA	NA	NA	NA	NA	NA	98.69	16S rRNA	1324	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Peptostreptococcaceae;Terrisporobacter	2025-07-02T13:16:11.000
+EU775636.1.1373	NA	OTU2817	Clostridium saudiense	NA	NA	NA	NA	NA	NA	98.8	16S rRNA	1335	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium;Clostridium_saudiense	2025-07-02T12:04:13.000
+AB506293.1.1505	OTU77	OTU20	Clostridium baratii group	NA	NA	NA	NA	NA	NA	98.8	16S rRNA	1334	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium;Clostridium_baratii	2025-07-02T12:04:10.000
+AB506399.1.1495	OTU124	OTU110	Romboutsia timonensis	NA	NA	NA	NA	NA	NA	99.7	16S rRNA	1324	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Peptostreptococcaceae;Romboutsia;Romboutsia_timonensis	2025-07-02T12:04:06.000
+EU457777.1.1404	NA	OTU191	Lactobacillaceae sp.	NA	NA	NA	NA	NA	NA	93.8	16S rRNA	1366	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae	2025-07-02T12:04:03.000
+AB506297.1.1495	OTU80	OTU66	Terrisporobacter petrolearius group	NA	NA	NA	NA	NA	NA	99.08	16S rRNA	1324	Bacteria;Bacillota;Tissierellia;Peptostreptococcales;Peptostreptococcaceae;Terrisporobacter;Terrisporobacter_petrolearius	2025-07-02T12:03:59.000
+GQ135879.1.1386	NA	OTU404	Clostridium sp.	NA	NA	NA	NA	NA	NA	97.74	16S rRNA	1346	Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium	2025-07-02T12:03:50.000
+EU775580.1.1399	OTU2255	OTU4	Streptococcaceae sp.	NA	NA	NA	NA	NA	NA	94.27	16S rRNA	1360	Bacteria;Bacillota;Bacilli;Lactobacillales;Streptococcaceae	2025-07-02T11:40:32.000
+EU474972.1.1421	OTU1838	OTU17	Lactobacillus amylovorus	NA	NA	NA	NA	NA	NA	98.7	16S rRNA	1383	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus_amylovorus	2025-07-02T11:40:27.000
+DQ796875.1.1402	OTU1138	OTU618	Turicibacteraceae sp.	NA	NA	NA	NA	NA	NA	93.56	16S rRNA	1364	Bacteria;Bacillota;Erysipelotrichia;Erysipelotrichales;Turicibacteraceae	2025-07-02T11:34:58.000;
+AM183043.1.1445	OTU557	NA	Clostridium sp.	NA	NA	NA	NA	NA	NA	95	16S rRNA	1453	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium	2025-08-27T11:34:58.000;
+DQ238609	NA	NA	Terrisporobacter sp.	NA	NA	NA	NA	NA	NA	99	16S rRNA	1425	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Terrisporobacter	2025-08-27T11:34:58.000;
+CP013476.1296696.1298220	OTU889	NA	Turicibacter sp.	NA	NA	NA	NA	NA	NA	100	16S rRNA	1439	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Turicibacter	2025-08-27T11:34:58.000;
+CP013476.575138.576663	OTU893	NA	Turicibacter sp.	NA	NA	NA	NA	NA	NA	99	16S rRNA	1440	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Turicibacter	2025-08-27T11:34:58.000;
+AB506291.1.1507	OTU76	NA	Clostridium sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1507	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium	NA
+AB506374.1.1507	OTU114	NA	Clostridium sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1507	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium	NA
+AM183054.1.1426	OTU562	NA	Clostridium sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1426	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium	NA
+AM500787.1.1483	OTU615	NA	Bulleidia sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1483	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Bulleidia	NA
+KU705878.1.1480	OTU4102	NA	Clostridium sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1480	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium	NA
+DQ238609.1.1484	OTU1036	NA	Terrisporobacter sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1484	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Terrisporobacter	NA
+EF153431.1.1479	OTU1353	NA	Corynebacterium sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1479	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium	NA
+HQ716545.1.1449	OTU3415	NA	PAC001286_s	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1449	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;PAC001286	NA
+EU773309.1.1388	OTU2100	NA	Arthrobacter sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1388	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter	NA
+HQ796965.1.1439	OTU3534	NA	Romboutsia sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1439	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia	NA
+GQ158347.1.1403	OTU3008	NA	PAC001207_s	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1403	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;PAC001207	NA
+FJ660505.1.1475	OTU2576	NA	Terrisporobacter sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1475	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Terrisporobacter	NA
+KT835605.1.1480	OTU4089	NA	Clostridium sp.	NA	NA	NA	NA	NA	NA	NA	16S rRNA	1480	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium	NA

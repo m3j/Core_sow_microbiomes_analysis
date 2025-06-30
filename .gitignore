@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+.log
+data/physeq_objects_filt0.1.RData
+Figures/
+tables/
